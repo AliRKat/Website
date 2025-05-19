@@ -1,32 +1,26 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# ARK Portfolio Website
 
+This is the source code for my personal portfolio website, designed to showcase my skills, projects, and professional background as a software and game developer.
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## Features
+- Clean, responsive design
+- Dedicated sections for **Bio**, **Skills**, **Interests**, **Projects**, and **Contact**
+- Minimal yet professional aesthetic, optimized for both mobile and desktop
+- Built with a focus on performance and scalability
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Technologies Used
+- **Languages:** HTML5, CSS3, JavaScript (jQuery)
+- **Frameworks:** None, built from scratch using a minimalist approach
+- **Template Base:** HTML5 UP's "Forty"
 
-(* = not included)
+## License
+The original template "Forty" by HTML5 UP is licensed under the Creative Commons Attribution 3.0 license ([CCA 3.0](https://html5up.net/license)).
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Credits
+- **Template:** [HTML5 UP](https://html5up.net)  
+- **Demo Images:** [Unsplash](https://unsplash.com) (Not included in this repository)  
+- **Icons:** [Font Awesome](https://fontawesome.com)  
+- **Other:**  
+  - [jQuery](https://jquery.com)  
+  - [Scrollex](https://github.com/ajlkn/jquery.scrollex)  
+  - [Responsive Tools](https://github.com/ajlkn/responsive-tools)  
