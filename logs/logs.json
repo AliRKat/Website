@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-01-31",
+    "title": "TryHackMe + networking basics",
+    "tags": ["tryhackme", "a+", "networking"],
+    "bullets": [
+      "Finished: Pre Security intro module",
+      "Reviewed: VLAN / trunking basics",
+      "Note: keep logs short; track outcomes, not vibes"
+    ],
+    "links": [
+      { "label": "TryHackMe profile", "url": "https://tryhackme.com/" }
+    ]
+  }
+]
